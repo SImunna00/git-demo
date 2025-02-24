@@ -26,3 +26,11 @@ This roadmap outlines the planned features, milestones, and future goals for the
 - **AI-Powered Features**: Personalized course recommendations and automated grading.
 - **Third-Party Integrations**: Support for Google Classroom, Microsoft Teams, and payment gateways.
 
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
